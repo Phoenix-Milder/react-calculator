@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 50px;
+}
+form{
+  display: block;
+  text-transform: uppercase;
+  width: 500px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+button{
+  width: 50px;
+  height: 20px;
+  box-shadow: none;
+  border: 1px solid black;
+  border-radius: none;
+  margin: 50px;
+}
+select{
+  width: 50px;
+  height: 20px;
+  box-shadow: none;
+  border: 1px solid black;
+  border-radius: none;
+}
+input{
+  margin-top: 25px;
+}
